@@ -86,6 +86,6 @@ The agent will:
 
 -Save to a timestamped text file
 
-![Output](./images/Screenshot%20(1097).png)
+![Output](./images/Research_Output.png)
 
 ### See the images folder for more details
