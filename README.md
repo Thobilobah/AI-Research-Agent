@@ -85,3 +85,7 @@ The agent will:
 -Structure the response
 
 -Save to a timestamped text file
+
+![Output](/images/Screenshot (1097).png)
+
+### See the images folder for more details
